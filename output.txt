@@ -570,25 +570,5 @@
 
 [Peltzer; Peltzer; ]
 
-[Elliotte Rusty Harold; Elliotte Rusty Harold; Elliotte Rusty Harold; Elliotte Rusty Harold; Elliotte R. Harold; Elliotte R. Harold; Elliotte R. Harold; Harold Elliotte; Harold Elliotte; Harold, Elliotte Rusty; Harold, Elliotte Rusty; HAROLD, ELLIOTTE RUSTY; Harold, Elliotte Rusty; Harold, Elliotte Rusty; HAROLD, ELLIOTTE RUSTY; Harold, Elliote Rusty; Harold, Elliote Rusty; ]
-
-[T. V. Raman; T. V. Raman; T. V. Raman; Raman, T. V.; Raman, T. V.; Raman, T. V.; T. V. Raman; Raman, T. V.; Raman, T. V.; Raman, T. V.; Raman, T. V. (Author); Raman, T. V.; Raman, T. V.; Raman, T. V.; Raman, T. V.; Raman, T. V.; T. V. Raman; Raman, T. V. (Author); T. V. Raman; Raman, T. V.; Raman, T.V.; Raman, T. V.; RAMAN, T.V.; T. V. Raman; Raman, T.V.; Raman T; Raman T; Raman, T.V.; ]
-
-[Bradley; Bradley, Neil.; Neil Bradley; Bradley, Neil; Bradley, Neil; Neil Bradley; Neil Bradley; Neil Bradley; Bradley; Neil Bradley; Bradley, Neil; Bradley; Bradley; ]
-
-[Howard Katz, Don Chamberlin, Denise Draper, Mary Fernandez, Michael Kay, Jonathan Robie, Michael Rys, Jerome Simeon, Jim Tivy, Philip Wadler; Howard Katz; Don Chamberlin; Denise Draper; Mary Fernandez; Michael Kay; Jonathan Robie; Michael Rys; Jerome Simeon; Jim Tivy; Philip Wadler; Howard Katz, Don Chamberlin, Denise Draper, Mary Fernandez, Michael Kay, Jo; ]
-
-[Katz, Howard; Katz, Howard; Howard Katz, et al; Katz, Howard; ]
-
-[Katz, HowardChamberlin, DonDraper, DeniseFernandez, MaryKay, MichaelRobie, Jonat; ]
-
-[D. D. Chamberlin; ]
-
-[Michael Brundage; Brundage, Michael; Brundage, Michael; Michael Brundage; Brundage, Michael; Brundage, Michael; Brundage, Michael; Brundage, Michael; Brundage, Michael; Brundage, Michael; Brundage, Michael; Brundage, Michael; Michael Brundage; Michael Brundage; Brundage, Michael; Brundage, Michael; Michael Brundage; Michael Brundage; Brundage, Michael; Brundage, Michael; Brundage, Michael (Author); Michael Brundage; Michael Brundage; Brundage, Michael; Brundage, Michael (Author); Michael Brundage; Michael Brundage; Brundage, Michael; Brundage, Michael; Brundage, Michael; Michael Brundage; ]
-
-[Paul Peterson, Michael Brundage; Peterson, Paul; Brundage, Michael; ]
-
-[Brundage; Brundage; Brundage; ]
-
-[Harold; ]
+[Elliotte Rusty Harold; Elliotte Rusty Harold; Elliotte Rusty Harold; ]
 
