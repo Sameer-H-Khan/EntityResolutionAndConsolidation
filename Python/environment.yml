@@ -1,0 +1,12 @@
+name: ent-res-cons
+channels:
+  - defaults
+dependencies:
+  - ipykernel
+  - pandas
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - pip
+  - pip:
+      - sentence-transformers
