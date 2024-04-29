@@ -66,8 +66,8 @@ namespace EntityResolutionAndConsolidation
                 }
             }
 
-            // Transformation map: PROSE Program -> List of candidate transformations
-            Dictionary<string, List<string>> transformationMap = new();
+            // Transformation map: PROSE Program ==> candidate transformation
+            List<string> transformationMap = new();
 
             // Process each identifier group giving the best PROSE program for each element to each other element within the cluster
             foreach (var group in clusterByIdentifier)
@@ -83,38 +83,29 @@ namespace EntityResolutionAndConsolidation
                     }
 
                     HashSet<string> permutations = CandidateReplacementPermutations(values.ToArray());
-                    foreach (var transformation in permutations)
+                    foreach (string transformation in permutations)
                     {
-                        //Some titles are exact matches with the author being slightly different
-                        //These transformations will be empty strings
                         Console.WriteLine($"Learning Transformation for : {transformation}");
                         string program = LearnTransformation(transformation);
-                        if (!transformationMap.ContainsKey(program))
-                        {
-                            transformationMap[program] = new List<string>();
-                        }
-                        transformationMap[program].Add(transformation);
+                        string mappedProgram = program + "==>" + transformation;
+                        transformationMap.Add(mappedProgram);
                     }
                 }
             }
 
-            string outputPath = "C:\\Users\\ryanp\\source\\repos\\EntityResolutionAndConsolidation\\EntityResolutionAndConsolidation\\programs.txt";
+            string outputPath = "C:\\Users\\ryanp\\source\\repos\\EntityResolutionAndConsolidation\\EntityResolutionAndConsolidation\\programs_one_to_one.txt";
             using (StreamWriter writer = new StreamWriter(outputPath))
             {
-                foreach (var entry in transformationMap)
+                foreach (string entry in transformationMap)
                 {
-                    writer.WriteLine($"Program: {entry.Key}");
-                    foreach (var transformation in entry.Value)
-                    {
-                        writer.WriteLine($"  Transformation: {transformation}");
-                    }
+                    writer.WriteLine(entry);
                 }
             }
         }
 
         private static string LearnTransformation(string transformation)
         {
-            string[] lhsrhs= transformation.Split(" -> ");
+            string[] lhsrhs= transformation.Split("->");
             string lhs = lhsrhs[0];
             string rhs = lhsrhs[1];
 
@@ -160,7 +151,7 @@ namespace EntityResolutionAndConsolidation
                     }
                     else
                     {
-                        replacements.Add(candidateCluster[i] + " -> " + candidateCluster[j]);
+                        replacements.Add(candidateCluster[i] + "->" + candidateCluster[j]);
                     }
                 }
             }
