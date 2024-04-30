@@ -1,0 +1,504 @@
+[Computers as Theatre->Computers As Theatre; CONSTRAINT PROCESSING->Constraint Processing; "DECHTER, RINA"->"Dechter, Rina"; APPLIED SOFTWARE ARCHITECTURE->Applied Software Architecture; COMER->Comer; Socially Responsible IT Management->Socially Responsible It Management; ]
+
+[Computers As Theatre->Computers as Theatre; ]
+
+[Brenda Laurel->"Laurel, Brenda"; "Martin Moore, Steven Hancock"->"Moore, Martin L"; "Jon Edney, William A. Arbaugh"->"Edney, Jon"; Pete Loshin->"Loshin, Pete"; Gary Nutt->"Nutt, Gary J"; Craig S. Mullins->"Mullins, Craig S."; Ian Watson->"Watson, Ian D"; Triad Interactive->"Triad, Interactive"; Jef Raskin->"Raskin, Jef"; Gregory D. Speegle->"Speegle, Gregory D."; Dameon D. Welch-Abernathy->"Welch-Abernathy, Dameon D."; Fabian Pascal->"Pascal, Fabian,"; Dilip C. Naik Dilip Naik->"Naik, Dilip C"; David Loshin->"Loshin, David"; Douglas A. Young->"Young, Douglas A."; Wayne Wolf->"Wolf, Wayne"; "David Makofske, Michael J. Donahoo, Kenneth L. Calvert"->"Makofske, David"; Michael Erbschloe->"Erbschloe, Michael"; Joel Henry->"Henry, Joel"; Joseph J. Lazzaro->"Lazzaro, Joseph J."; Doug A. Bowman;Ernst Kruijff;Joseph J. LaViola;Ivan Poupyrev->"Bowman, Doug A."; David C. Hay->"Hay, David C"; Alan Dickman->"Dickman, Alan"; David Harris->"Harris, David"; Ian Sommerville->"Sommerville, Ian"; Ruixi Yuan; W. Timothy Strayer->"Yuan,Strayer,"; Gary McGraw->"McGraw, Gary"; Patrick Henry Winston->"Winston, Patrick Henry"; William Wheeler->"Wheeler, William"; Stephen A. Rago->"Rago, Stephen A"; Gilbert Held->"Held, Gilbert"; John Lenk->"Lenk, John D"; Aviel D. Rubin->"Rubin, Aviel D."; Patrick Holmay->"Holmay, Patrick"; James O. Coplien->"Coplien, James O.,"; Herbert B. Enderton->"Enderton, Herbert B."; "Pankaj Jalote, P. Jalote"->"Jalote, Pankaj"; Ken Henderson->"Henderson, Ken"; Stanley B. Lippman->"Lippman, Stanley B."; Brian Arkills->"Arkills, Brian"; Joe Warren; Henrik Weimer->"Warren, Joe"; Carrie Anderson David Wendelken->"Wendelken, David,"; "Carl Roper, Dr. Lynn Fischer, Joseph A. Grau"->"Roper, Carl"; Matthew Cheek->"Cheek, Matthew"; Michael Negnevitsky->"Negnevitsky, Michael"; Michael Otey->"Otey, Michael"; Michael Brundage->"Brundage, Michael"; Steve Holzner->"Holzner, Steve"; "Ira Pohl , University of California, Santa Cruz"->"Pohl, Ira"; Brian Durney->"Durney, Brian"; "Gerald E. Farin,"->"Farin, Gerald"; ]
+
+["Laurel, Brenda"->Brenda Laurel; "Loshin, Pete"->Pete Loshin; "Triad, Interactive"->Triad Interactive; "Raskin, Jef"->Jef Raskin; "Pascal, Fabian,"->Fabian Pascal; "Loshin, David"->David Loshin; "Wolf, Wayne"->Wayne Wolf; "Erbschloe, Michael"->Michael Erbschloe; "Henry, Joel"->Joel Henry; Marvin Zelkowitz->Marvin V. Zelkowitz; Marvin V. Zelkowitz->Marvin Zelkowitz; "Dickman, Alan"->Alan Dickman; "Harris, David"->David Harris; "Sommerville, Ian"->Ian Sommerville; "McGraw, Gary"->Gary McGraw; "Wheeler, William"->William Wheeler; "Held, Gilbert"->Gilbert Held; "Holmay, Patrick"->Patrick Holmay; "Henderson, Ken"->Ken Henderson; "Arkills, Brian"->Brian Arkills; "Cheek, Matthew"->Matthew Cheek; "Negnevitsky, Michael"->Michael Negnevitsky; "Otey, Michael"->Michael Otey; "Brundage, Michael"->Michael Brundage; "Holzner, Steve"->Steve Holzner; Johnson. Jeff->Jeff Johnson; "Nutt, Gary J"->Gary Nutt; "Watson, Ian D"->Ian Watson; "Lenk, John D"->John Lenk; Project-Based Software Engineering: An Object-Oriented Approach->Project Based Software Engineering; "Durney, Brian"->Brian Durney; Jeff Johnson->Johnson. Jeff; ]
+
+[Tru64 Unix Troubleshooting Diagnosing &amp;->Tru64 UNIX Troubleshooting : Diagnosing and Correcting System Problems (HP Technologies); Virtual Private Networks - Technologies And Solutions B->Virtual Private Networks: Technologies and Solutions; The Mobile Connection : The Cell Phoneandapos;s Impact on Society->Mobile Connection the Cell Phones Impact; Artificial Intelligence: A Guide To Intelligent Systems->Artificial Intelligence : A Guide to Intelligent Systems (Softcover); Principles Of Computer Security: Security+ And Beyond->Principles of Computer Security: Security + and Beyond (with CD-ROM); The Essential Java Class Reference For Programmers->"Essential Java Class Reference for Programmers, The (3rd Edition)"; "Advances In Computers, Volume 62: Advances In Software Engineering (advances In Computers)"->"Advances in Computers (Advances in Computers, 62)"; Discrete Mathematics With Combinatorics Second Edition->"Discrete Mathematics with Combinatorics, Second Edition [Hardcover] by."; Mfc Internals: Inside the Microsoft Foundation Class Architecture->MFC Internals: Inside the Microsoft(c) Foundation Class Architecture; Unix System 5 Network Prog->UNIX(R) System V Network Programming; ]
+
+[Tru64 UNIX Troubleshooting : Diagnosing and Correcting System Problems (HP Technologies)->Tru64 Unix Troubleshooting Diagnosing &amp;; ]
+
+["Moore, Martin L"->"Martin Moore, Steven Hancock"; ]
+
+[Refactoring Databases: Evolutionary Database Design->Refactoring Databases: Evolutionary Database Design (The Addison-Wesley Signature Series); ]
+
+[Refactoring Databases: Evolutionary Database Design (The Addison-Wesley Signature Series)->Refactoring Databases: Evolutionary Database Design; Managing Gigabytes: Compressing and Indexing Documents and Images (The Morgan.->Managing Gigabytes: Compressing and Indexing Documents and Images; JDBC: Practical Guide for Java Programmers (The Practical Guides)->JDBC: Practical Guide for Java Programmers; Fundamentals of Thermal-Fluid Sciences(2nd edition)->Fundamentals of Thermal-Fluid Sciences; Designing Applications with MSMQ: Message Queuing for Developers (The Addison-Wesley Microsoft Technology Series)->Designing Applications with MSMQ: Message Queuing for Developers; Software Engineering (6th Edition)->Software Engineering; Software Security: Building Security In (Addison-Wesley Software Security Series)->Software Security: Building Security In; Data Model Patterns: A Metadata Map (the Morgan Kaufmann Series In Data Management Systems)->Data Model Patterns: A Metadata Map; The Craft of Information Visualization: Readings and Reflections (The Morgan Kaufmann Series in Interactive Technologies)->The Craft of Information Visualization: Readings and Reflections; Understanding Data Communications (7th Edition)->Understanding Data Communications; CMM in Practice: Processes for Executing Software Projects at Infosys (The SEI Series in Software Engineering)->CMM in Practice: Processes for Executing Software Projects at Infosys; Evolutionary Computation in Bioinformatics (The Morgan Kaufmann Series in Artificial Intelligence)->Evolutionary Computation in Bioinformatics; Trucluster Server Handbook (Hp Technologies)->Trucluster Server Handbook; Essential Windows Workflow Foundation (MicrosoftNET Development Series)->Essential Windows Workflow Foundation; The Internet Security Guidebook: From Planning to Deployment (The Korper and Ellis E-Commerce Books Series)->The Internet Security Guidebook: From Planning to Deployment; Moving Objects Databases (the Morgan Kaufmann Series In Data Management Systems) (the Morgan Kaufmann Series In Data Management Systems)->Moving Objects Databases; Curves and Surfaces for CAGD: A Practical Guide (The Morgan Kaufmann Series in Computer Graphics)->Curves and Surfaces for CAGD: A Practical Guide; Computer Systems Design and Architecture (2nd Edition) (Softcover)->Computer Systems Design and Architecture; ]
+
+["Ambler, Scott; Sadalage, Pramodkumar"->Scott W. Ambler; Pramodkumar J. Sadalage; "Huston, Stephen D.Johnson, James CESyyid, Umar"->Stephen D. Huston; James CE Johnson; Umar Syyid; "Arnold, Ken; Gosling, James; Holmes, David"->Ken Arnold James Gosling David Holmes; "Fox, David; Verhovsek, Roman; Verhosek, Roman"->David Fox;Roman Verhovsek; Scott W. Ambler; Pramodkumar J. Sadalage->"Ambler, Scott; Sadalage, Pramodkumar"; Stephen D. Huston; James CE Johnson; Umar Syyid->"Huston, Stephen D.Johnson, James CESyyid, Umar"; Ken Arnold James Gosling David Holmes->"Arnold, Ken; Gosling, James; Holmes, David"; David Fox;Roman Verhovsek->"Fox, David; Verhovsek, Roman; Verhosek, Roman"; Yunus A. Cengel&nbsp;&nbsp;Robert H. Turner->"Yunus A. Cengel, Robert H. Turner, Yunus Cengel, Robert Turn"; "Yacht, Carol; Crosson, Susan"->"Carol Yacht, Susan Crosson"; "Carol Yacht, Susan Crosson"->"Yacht, Carol; Crosson, Susan"; Ajay Gupta; Scott Laliberte->"Gupta, Ajay/ Laliberte, Scott"; "Gupta, Ajay/ Laliberte, Scott"->Ajay Gupta; Scott Laliberte; "Adams, Joel/ Nyhoff, Jeffrey L."->"Joel Adams, Larry R. Nyhoff, Jeffrey Nyhoff, Joel C. Adams, Jeffrey L. Nyhoff"; "Kumar, C. Bala; Kline, Paul J.; Thompson, Timothy J."->"C Bala Kumar, Paul Kline, Tim Thompson"; "Mel, H.X.; Burnett, Doris; Baker, Doris M."->"H. X. Mel, Doris Burnett, Doris M. Baker"; "C Bala Kumar, Paul Kline, Tim Thompson"->"Kumar, C. Bala; Kline, Paul J.; Thompson, Timothy J."; "William C. Boni, Gerald L. Kovacich"->"Boni, William C.; Kovacich, Gerald"; "Patrick Chan, Lan-Ahn Dang"->"Chan, Patrick; Dang, Lan-Ahn"; "Chan, Patrick; Dang, Lan-Ahn"->"Patrick Chan, Lan-Ahn Dang"; "Boni, William C.; Kovacich, Gerald"->"William C. Boni, Gerald L. Kovacich"; "Armour, Frank, Miller, Granville"->"Frank Armour , Granville Miller"; "Frank Armour , Granville Miller"->"Armour, Frank, Miller, Granville"; "Shukla, Dharma, Schmidt, Bob"->"Dharma Shukla, Bob Schmidt"; "Dharma Shukla, Bob Schmidt"->"Shukla, Dharma, Schmidt, Bob"; "Francois Bancilhon, Claude Delobel, Paris Kanellakis"->"Bancilhon, Francois;Delobel, Claude;Kanellakis, Paris C.,"; "Bancilhon, Francois;Delobel, Claude;Kanellakis, Paris C.,"->"Francois Bancilhon, Claude Delobel, Paris Kanellakis"; "Card, Stuart K.; Mackinlay, Jock D.; Shneiderman, Ben"->"Stuart K. Card, Jock D. Mackinlay, Ben Shneiderman"; George Shepherd Scot Wingo->"Shepherd, George; Wingo, Scott"; "Ellis, Juanita; Speed, Tim"->"Juanita Ellis, Tim Speed"; "Juanita Ellis, Tim Speed"->"Ellis, Juanita; Speed, Tim"; "Guting, Ralf Hartmut; Schneider, Markus"->"Ralf Hartmut G?ting, Markus Schneider"; "Joel Adams, Larry R. Nyhoff, Jeffrey Nyhoff, Joel C. Adams, Jeffrey L. Nyhoff"->"Adams, Joel/ Nyhoff, Jeffrey L."; "Stuart K. Card, Jock D. Mackinlay, Ben Shneiderman"->"Card, Stuart K.; Mackinlay, Jock D.; Shneiderman, Ben"; "Ralf Hartmut G?ting, Markus Schneider"->"Guting, Ralf Hartmut; Schneider, Markus"; Mpls Network Management Mibs Tools &amp; Tec->"Mpls Network Management: Mibs, Tools, and Techniques"; The X Window System Programming and Applications with Xt - OSF Motif Edition->"The X Window System: Programming and Applications with XT, OSF/Motif"; "Shepherd, George; Wingo, Scott"->George Shepherd Scot Wingo; "Naik, Dilip C"->Dilip C. Naik Dilip Naik; ]
+
+[The ACE Programmer's Guide: Practical Design Patterns for Network and Systems Programming->"ACE Programmer's Guide, The: Practical Design Patterns for Network and Systems Programming"; ]
+
+["ACE Programmer's Guide, The: Practical Design Patterns for Network and Systems Programming"->The ACE Programmer's Guide: Practical Design Patterns for Network and Systems Programming; ]
+
+["Kernel Projects for Linux, by Nutt"->Kernel Projects for Linux (Softcover) (CD-ROM); ]
+
+[Kernel Projects for Linux (Softcover) (CD-ROM)->"Kernel Projects for Linux, by Nutt"; ]
+
+[Practical Model-Based Testing: A Tools Approach->PRAC MODEL-BASED TESTING; ]
+
+[PRAC MODEL-BASED TESTING->Practical Model-Based Testing: A Tools Approach; ]
+
+["Utting, Mark Legeard, Bruno"->"Utting, Mark"; "Mackenzie, Duncan; Noyes, Brian"->"Noyes, Brian"; "Nadeau, Thomas D"->"Nadeau, Thomas D."; "Leondes, Cornelius T.,"->"Leondes, Cornelius T."; "Leondes, Cornelius T."->"Leondes, Cornelius T.,"; "Nadeau, Thomas D."->"Nadeau, Thomas D"; ]
+
+["Utting, Mark"->"Utting, Mark Legeard, Bruno"; ]
+
+["Open Source Web Development with LAMP: Using Linux, Apache, MySQL, Perl, and PHP"->Open Source Web Development With Lamp.; ]
+
+[Open Source Web Development With Lamp.->"Open Source Web Development with LAMP: Using Linux, Apache, MySQL, Perl, and PHP"; ]
+
+["Lee, James B.; Ware, Brent"->"Lee, James/ Ware, Brent."; ]
+
+["Lee, James/ Ware, Brent."->"Lee, James B.; Ware, Brent"; ]
+
+["C++ For C Programmers, Third Edition (3rd Edition)"->C++ for C Programmers 3ed; ]
+
+[C++ for C Programmers 3ed->"C++ For C Programmers, Third Edition (3rd Edition)"; ]
+
+["Essential .NET, Volume I: The Common Language Runtime"->EssentialNET. Volume I: The Common Language Runtime; ]
+
+[EssentialNET. Volume I: The Common Language Runtime->"Essential .NET, Volume I: The Common Language Runtime"; ]
+
+[Don Box->Box; Linux System Administration: A User's Guide->Linux System Administration; "Gagne, Marcel"->Gagne; Database Administration: The Complete Guide to Practices and Procedures->Database Administration; Applying Knowledge Management: Techniques for Building Corporate Memories->Applying Knowledge Management; "Venugopal, Sesh"->Venugopal; Business Data Communications 1/e->Business Data Communications; "Rucker, Rudy"->Rucker; "Ritchey, Ferris"->Ritchey; "Bernard M. Moret, Addison-Wesley, B. M. E. Moret"->Moret; "Stiller, Evelyn; Leblanc, Cathie"->Stiller; "Sprankle, Maureen"->Sprankle; "Chow, RandyJohnson, Theodore"->Chow; Subdivision Methods for Geometric Design: A Constructive Approach (The Morgan Kaufmann Series in Computer Graphics)->Subdivision Methods for Geometric Design; "Bentley, Jon"->Bentley; Gary B. Fogel~David W. Corne->Gary B. Fogel; Neil Bradley->Bradley; ]
+
+[Box->Don Box; ]
+
+[Micro Java(TM) Game Development->Micro Java Games Development; ]
+
+[Micro Java Games Development->Micro Java(TM) Game Development; The Oracle Designer - 2000 Handbook->The Oracle(R) Designer/2000 Handbook; ]
+
+[SQL Queries for Mere Mortals: A Hands-On Guide to Data Manipulation in SQL->SQL Queries for Mere Mortals A Hands-On Guide to Data Manipulation in SQL; The Humane Interface: New Directions for Designing Interactive Systems->The Humane Interface :New Directions for Designing Interactive Systems; The Humane Interface :New Directions for Designing Interactive Systems->The Humane Interface: New Directions for Designing Interactive Systems; Efficient C++: Performance Programming Techniques->Efficient C++ Performance Programming Techniques; Practical Issues in Database Management - A Reference for the Thinking Practitioner->Practical Issues in Database Management: A Reference for the Thinking Practitioner; SQL Queries for Mere Mortals A Hands-On Guide to Data Manipulation in SQL->SQL Queries for Mere Mortals: A Hands-On Guide to Data Manipulation in SQL; 3D User Interfaces : Theory and Practice->3D User Interfaces: Theory and Practice; Practical Issues in Database Management: A Reference for the Thinking Practitioner->Practical Issues in Database Management - A Reference for the Thinking Practitioner; The Struts Framework: Practical Guide for Java Programmers->The Struts Framework. Practical Guide for Java Programmers.; 3D User Interfaces: Theory and Practice->3D User Interfaces : Theory and Practice; Netspionage : The Global Threats to Information->Netspionage: The Global Threats to Information; Netspionage: The Global Threats to Information->Netspionage : The Global Threats to Information; Teach Yourself Microsoft Visual Basic .Net 2003 in 21 Days->Teach Yourself Microsoft Visual BasicNet 2003 in 21 Days; Teach Yourself Microsoft Visual BasicNet 2003 in 21 Days->Teach Yourself Microsoft Visual Basic .Net 2003 in 21 Days; Advanced Use Case Modeling : Software Systems (Paperback)->Advanced Use Case Modeling: Software Systems; "Mauler, Gary &amp; Milton Beebe"->Gary Mauler; "Fafrak, Scott; Lola, Jim; O'Brien, Dennis; Yates, Gregory; Nichols, Brad"->Scott Fafrak; "Garrett, AvivaDrenan, GaryMorris, CrisJuniper&reg; Networks"->Aviva Garrett; Efficient C++ Performance Programming Techniques->Efficient C++: Performance Programming Techniques; ]
+
+["Hernandez, Michael J.; Viescas, John; Viescas, John L."->John Viescas; ]
+
+[John Viescas->"Hernandez, Michael J.; Viescas, John; Viescas, John L."; ]
+
+[Linux System Administration->Linux System Administration: A User's Guide; ]
+
+[Gagne->"Gagne, Marcel"; ]
+
+["Java(TM) Programming Language, The (4th Edition) (The Java Series)"->The 'java Programming Language; ]
+
+[The 'java Programming Language->"Java(TM) Programming Language, The (4th Edition) (The Java Series)"; ]
+
+[Neural Network Systems Techniques and Applications - Industrial and Manufacturing Systems->"Industrial and Manufacturing Systems, Vol. 4"; ]
+
+["Industrial and Manufacturing Systems, Vol. 4"->Neural Network Systems Techniques and Applications - Industrial and Manufacturing Systems; ]
+
+[Business Programming Logic (4th Edition)->"Business Programming Logic : A Structured Approach, 4th edition, pb, 1990"; ]
+
+["Business Programming Logic : A Structured Approach, 4th edition, pb, 1990"->Business Programming Logic (4th Edition); ]
+
+[Jay Singelmann->Singelmann/Longhurst; ]
+
+[Singelmann/Longhurst->Jay Singelmann; ]
+
+[Database Administration->Database Administration: The Complete Guide to Practices and Procedures; ]
+
+["Mullins, Craig S."->Craig S. Mullins; "Speegle, Gregory D."->Gregory D. Speegle; "Welch-Abernathy, Dameon D."->Dameon D. Welch-Abernathy; "Young, Douglas A."->Douglas A. Young; "Lazzaro, Joseph J."->Joseph J. Lazzaro; "Rubin, Aviel D."->Aviel D. Rubin; "Coplien, James O.,"->James O. Coplien; "Enderton, Herbert B."->Herbert B. Enderton; "Lippman, Stanley B."->Stanley B. Lippman; ]
+
+[Real 802.11 Security: Wi-Fi Protected Access and 802.11i->REAL 802.11 SECURITY; Ira Pohl->POHL; "Conklin, Art; Davis, Roger; Williams, Dwayne; Cothren, Chuck"->CONKLIN; Jon Juarez->JUAREZ; Computers As Components: Principles Of Embedded Computing System Design (the Morgan Kaufmann Series In Computer Architecture And Design) (the Morgan K->COMPUTERS AS COMPONENTS; "Sherman, William R.; Craig, Alan B."->SHERMAN; "Smith, Colin"->SMITH; Logical Effort: Designing Fast Cmos Circuits->LOGICAL EFFORT; XQuery: The XML Query Language->XQUERY; "Morelli, Ralph/ Walde, Ralph"->MORELLI; "Nielsen, Jakob:"->NIELSEN; ]
+
+[REAL 802.11 SECURITY->Real 802.11 Security: Wi-Fi Protected Access and 802.11i; ]
+
+["Edney, Jon"->"Jon Edney, William A. Arbaugh"; ]
+
+[C++ By Dissection->C++ BY DISSECTION-W/CD; ]
+
+[C++ BY DISSECTION-W/CD->C++ By Dissection; ]
+
+[POHL->Ira Pohl; ]
+
+["Non-Photorealistic Computer Graphics: Modeling, Rendering and Animation"->"Non-Photorealistic Computer Graphics, Modeling, Rendering, and Animation"; "Non-Photorealistic Computer Graphics, Modeling, Rendering, and Animation"->"Non-Photorealistic Computer Graphics: Modeling, Rendering and Animation"; ]
+
+["Strothotte, Thomas; Schlechtweg, Stefan"->"By (author) Strothotte, Thomas By (author) Schlechtweg, Stefan"; ]
+
+["By (author) Strothotte, Thomas By (author) Schlechtweg, Stefan"->"Strothotte, Thomas; Schlechtweg, Stefan"; ]
+
+[Smart Client Deployment with ClickOnce(TM): Deploying Windows Forms Applications with ClickOnce(TM)->Smart Client Deployment with Clickonce: Deploying Windows Forms Applications with Clickonce; Smart Client Deployment with Clickonce: Deploying Windows Forms Applications with Clickonce->Smart Client Deployment with ClickOnce(TM): Deploying Windows Forms Applications with ClickOnce(TM); ]
+
+["Noyes, Brian"->"Mackenzie, Duncan; Noyes, Brian"; ]
+
+[Managing Gigabytes: Compressing and Indexing Documents and Images->Managing Gigabytes: Compressing and Indexing Documents and Images (The Morgan.; ]
+
+[0->Ian Witten; Ian Witten->0; ]
+
+[Constraint Processing->CONSTRAINT PROCESSING; "Dechter, Rina"->"DECHTER, RINA"; Applied Software Architecture->APPLIED SOFTWARE ARCHITECTURE; Comer->COMER; Coordinating User Interfaces for Consistency->COORDINATING USER INTERFACES FOR CONSISTENCY; ]
+
+[Applying Knowledge Management->Applying Knowledge Management: Techniques for Building Corporate Memories; ]
+
+["TCP/IP Clearly Explained, Fourth Edition (The Morgan Kaufmann Series in Networking)"->TCP/IP Clearly Explained; "Defend I.T.: Security by Example, by Gupta"->Defend I.T.: Security by Example; "Pattern Recognition, Third Edition"->Pattern Recognition; "Software Project Management: A Real-World Guide to Success, by Henry"->Software Project Management: A Real-World Guide to Success; "Adapting PCs for Disabilities, by Joseph J. Lazzaro"->Adapting PCs for Disabilities; "On to C++, by Winston"->On to C++; "Object-Oriented Programming Using C++, by Pohl, 2nd Edition"->Object-Oriented Programming Using C++; "Java: An Introduction to Computing, by Adams"->Java: An Introduction to Computing; ]
+
+[TCP/IP Clearly Explained->"TCP/IP Clearly Explained, Fourth Edition (The Morgan Kaufmann Series in Networking)"; ]
+
+[SimNet XPert Release 4 Combined PageOut Edition->SIMNET XPERT RELEASE 4 COM D; ]
+
+[SIMNET XPERT RELEASE 4 COM D->SimNet XPert Release 4 Combined PageOut Edition; ]
+
+[JDBC: Practical Guide for Java Programmers->JDBC: Practical Guide for Java Programmers (The Practical Guides); ]
+
+["Essential Check Point FireWall-1 NG: An Installation, Configuration, and Troubleshooting Guide"->ESSENTIAL CHECK POINT FIREWALL; "Understanding Virtual Reality: Interface, Application, and Design"->UNDERSTANDING VIRTUAL REALITY; ]
+
+[ESSENTIAL CHECK POINT FIREWALL->"Essential Check Point FireWall-1 NG: An Installation, Configuration, and Troubleshooting Guide"; ]
+
+[Fundamentals of Thermal-Fluid Sciences->Fundamentals of Thermal-Fluid Sciences(2nd edition); ]
+
+["Yunus A. Cengel, Robert H. Turner, Yunus Cengel, Robert Turn"->Yunus A. Cengel&nbsp;&nbsp;Robert H. Turner; "Benjamin B. Bederson, Ben Shneiderman"->Benjamin B. Bederson Ben Shneiderman; ]
+
+["Christine Hofmeister, Robert Nord, Dilip Soni"->"Hoffmeister, Christine"; ]
+
+["Hoffmeister, Christine"->"Christine Hofmeister, Robert Nord, Dilip Soni"; ]
+
+[Data Structures from the Outside In : An Object Oriented Approach with Java 5. 0->Data Structures Outside In With Java; ]
+
+[Data Structures Outside In With Java->Data Structures from the Outside In : An Object Oriented Approach with Java 5. 0; ]
+
+[Venugopal->"Venugopal, Sesh"; ]
+
+["INSIDE WINDOWS STORAGE. Server Storage Technologies for Windows 2000, Windows Server 2003, and Beyond"->"Inside Windows Storage: Server Storage Technologies for Windows Server 2003, Windows 2000 and Beyond"; ]
+
+["Inside Windows Storage: Server Storage Technologies for Windows Server 2003, Windows 2000 and Beyond"->"INSIDE WINDOWS STORAGE. Server Storage Technologies for Windows 2000, Windows Server 2003, and Beyond"; ]
+
+[Computer Accounting with Microsoft Great Plains 8. 0 w/ Software CD->Computer Accounting with Microsoft Great Plains 8.0 w/ Software CD; Computer Accounting with Microsoft Great Plains 8.0 w/ Software CD->Computer Accounting with Microsoft Great Plains 8. 0 w/ Software CD; ]
+
+[Defend I.T.: Security by Example->"Defend I.T.: Security by Example, by Gupta"; ]
+
+[Business Intelligence: The Savvy Manager's Guide (The Savvy Manager's Guides)->"Business Intelligence: The Savvy Manager's Guide, pb, 2003"; ]
+
+["Business Intelligence: The Savvy Manager's Guide, pb, 2003"->Business Intelligence: The Savvy Manager's Guide (The Savvy Manager's Guides); ]
+
+[Mobile Connection the Cell Phones Impact->The Mobile Connection : The Cell Phoneandapos;s Impact on Society; ]
+
+["Ling, Richard"->Rich Ling; ]
+
+[Rich Ling->"Ling, Richard"; Sue Spielman->"Spielman, S."; ]
+
+[Pattern Recognition->"Pattern Recognition, Third Edition"; ]
+
+[Principles of Computer Security: Security + and Beyond (with CD-ROM)->Principles Of Computer Security: Security+ And Beyond; ]
+
+[CONKLIN->"Conklin, Art; Davis, Roger; Williams, Dwayne; Cothren, Chuck"; ]
+
+[Business Data Communications->Business Data Communications 1/e; ]
+
+[None->FOROUZAN; ]
+
+[FOROUZAN->None; ]
+
+[Essentials of Computer Architecture->ESSENTIALS COMPUTER ARCHITECTURE; ]
+
+[ESSENTIALS COMPUTER ARCHITECTURE->Essentials of Computer Architecture; ]
+
+[Software Engineering and Computer Games->Software Engineering &amp; Computer Games; Problem Solving And Programming Concepts->Problem Solving &amp; Programming Concepts; Software Engineering &amp; Computer Games->Software Engineering and Computer Games; Problem Solving &amp; Programming Concepts->Problem Solving And Programming Concepts; ]
+
+[Rucker->"Rucker, Rudy"; ]
+
+["Microsoft Office Access 2003: A Professional Approach, by Juarez, Comprehensive"->"Microsoft Office Access 2003 : A Professional Approach, Comprehensive Student Edition with CD-ROM"; ]
+
+["Microsoft Office Access 2003 : A Professional Approach, Comprehensive Student Edition with CD-ROM"->"Microsoft Office Access 2003: A Professional Approach, by Juarez, Comprehensive"; ]
+
+[JUAREZ->Jon Juarez; ]
+
+["The X Window System: Programming and Applications with XT, OSF/Motif"->The X Window System Programming and Applications with Xt - OSF Motif Edition; ]
+
+[COMPUTERS AS COMPONENTS->Computers As Components: Principles Of Embedded Computing System Design (the Morgan Kaufmann Series In Computer Architecture And Design) (the Morgan K; ]
+
+[TCP/IP Sockets in C# : Practical Guide for Programmers (Morgan Kaufmann Practical Guides Series)->TCP/IP SOCKETS IN C#; ]
+
+[TCP/IP SOCKETS IN C#->TCP/IP Sockets in C# : Practical Guide for Programmers (Morgan Kaufmann Practical Guides Series); ]
+
+["Makofske, David"->"David Makofske, Michael J. Donahoo, Kenneth L. Calvert"; ]
+
+["Bowman, Doug A."->Doug A. Bowman;Ernst Kruijff;Joseph J. LaViola;Ivan Poupyrev; ]
+
+[Socially Responsible It Management->Socially Responsible IT Management; ]
+
+["Excel 2000: A Professional Approach, by Tobias, Level 2: Expert"->"Excel 2000, BK&amp;CD-ROM, pb, 2001"; ]
+
+["Excel 2000, BK&amp;CD-ROM, pb, 2001"->"Excel 2000: A Professional Approach, by Tobias, Level 2: Expert"; ]
+
+[Software Project Management: A Real-World Guide to Success->"Software Project Management: A Real-World Guide to Success, by Henry"; ]
+
+[The AIX Survival Guide->AIX SURVIVAL GUIDE; ]
+
+[AIX SURVIVAL GUIDE->The AIX Survival Guide; ]
+
+[A. Siegert->"SIEGERT, ANDREAS"; ]
+
+["SIEGERT, ANDREAS"->A. Siegert; Artificial Intelligence : A Guide to Intelligent Systems (Softcover)->Artificial Intelligence: A Guide To Intelligent Systems; ]
+
+[Adapting PCs for Disabilities->"Adapting PCs for Disabilities, by Joseph J. Lazzaro"; ]
+
+[Clustering Windows Servers: A Road Map for Enterprise Solutions->Clustering Windows Server: A Road Map for Enterprise Solutions; ]
+
+[Clustering Windows Server: A Road Map for Enterprise Solutions->Clustering Windows Servers: A Road Map for Enterprise Solutions; ]
+
+[Gary Mauler->"Mauler, Gary &amp; Milton Beebe"; ]
+
+["Advances in Computers (Advances in Computers, 62)"->"Advances In Computers, Volume 62: Advances In Software Engineering (advances In Computers)"; ]
+
+[Designing Applications with MSMQ: Message Queuing for Developers->Designing Applications with MSMQ: Message Queuing for Developers (The Addison-Wesley Microsoft Technology Series); ]
+
+[Skew-Tolerant Circuit Design->Skew Tolerant Circuit Design; White-Hat Security Arsenal: Tackling the Threats->White Hat Security Arsenal: Tackling the Threats; ]
+
+[Skew Tolerant Circuit Design->Skew-Tolerant Circuit Design; White Hat Security Arsenal: Tackling the Threats->White-Hat Security Arsenal: Tackling the Threats; ]
+
+[Software Engineering->Software Engineering (6th Edition); ]
+
+[Virtual Private Networks: Technologies and Solutions->Virtual Private Networks - Technologies And Solutions B; ]
+
+["Yuan,Strayer,"->Ruixi Yuan; W. Timothy Strayer; ]
+
+[Statistical Imagination (w/CD)->The Statistical Imagination; ]
+
+[The Statistical Imagination->Statistical Imagination (w/CD); ]
+
+[Ritchey->"Ritchey, Ferris"; ]
+
+[Software Security: Building Security In->Software Security: Building Security In (Addison-Wesley Software Security Series); ]
+
+[UNDERSTANDING VIRTUAL REALITY->"Understanding Virtual Reality: Interface, Application, and Design"; ]
+
+[SHERMAN->"Sherman, William R.; Craig, Alan B."; ]
+
+[Data Model Patterns: A Metadata Map->Data Model Patterns: A Metadata Map (the Morgan Kaufmann Series In Data Management Systems); ]
+
+["Hay, David C"->David C. Hay; "Winston, Patrick Henry"->Patrick Henry Winston; "Rago, Stephen A"->Stephen A. Rago; ]
+
+[On to C++->"On to C++, by Winston"; ]
+
+[Cryptography Decrypted->Cryptography Decrypted.; ]
+
+[Cryptography Decrypted.->Cryptography Decrypted; ]
+
+["H. X. Mel, Doris Burnett, Doris M. Baker"->"Mel, H.X.; Burnett, Doris; Baker, Doris M."; ]
+
+[INTEGRATING WIRELESS TECHNOLOG->"Integrating Wireless Technology in the Enterprise: Pdas, Blackberries, and Mobile Devices"; ]
+
+["Integrating Wireless Technology in the Enterprise: Pdas, Blackberries, and Mobile Devices"->INTEGRATING WIRELESS TECHNOLOG; ]
+
+[The Craft of Information Visualization: Readings and Reflections->The Craft of Information Visualization: Readings and Reflections (The Morgan Kaufmann Series in Interactive Technologies); ]
+
+[Benjamin B. Bederson Ben Shneiderman->"Benjamin B. Bederson, Ben Shneiderman"; ]
+
+[Bluetooth Application Programming with the Java APIs (The Morgan Kaufmann Series in Networking)->Bluetooth Application Programming With the Java Apis; ]
+
+[Bluetooth Application Programming With the Java Apis->Bluetooth Application Programming with the Java APIs (The Morgan Kaufmann Series in Networking); ]
+
+[UNIX(R) System V Network Programming->Unix System 5 Network Prog; ]
+
+[Understanding Data Communications->Understanding Data Communications (7th Edition); ]
+
+[The Theory of Computation->Theory of Computation; ]
+
+[Theory of Computation->The Theory of Computation; ]
+
+[Moret->"Bernard M. Moret, Addison-Wesley, B. M. E. Moret"; ]
+
+[Simplified Design of Voltage Frequency C->Simplified Design of Voltage/Frequency Converters (Edn Series for Design Engineers); ]
+
+[Simplified Design of Voltage/Frequency Converters (Edn Series for Design Engineers)->Simplified Design of Voltage Frequency C; ]
+
+["Genetic Algorithms in Search, Optimization, and Machine Learning"->Genetic Algorithms; ]
+
+[Genetic Algorithms->"Genetic Algorithms in Search, Optimization, and Machine Learning"; ]
+
+[The OpenVMS User's Guide (HP Technologies)->OpenVMS User's Guide; ]
+
+[OpenVMS User's Guide->The OpenVMS User's Guide (HP Technologies); ]
+
+[Advanced C++ Programming Styles and Idioms->Advanced C Plus Plus Programming Styles and Idioms; ]
+
+[Advanced C Plus Plus Programming Styles and Idioms->Advanced C++ Programming Styles and Idioms; ]
+
+[Database Transaction Models for Advanced Applications (The Morgan Kaufmann Series in Data Management Systems)->Database Transaction Models for Advanced Applicati; ]
+
+[Database Transaction Models for Advanced Applicati->Database Transaction Models for Advanced Applications (The Morgan Kaufmann Series in Data Management Systems); ]
+
+["Elmargarmid, Ahmed K.; Elmagarmid, Ahmed K."->"Elmagarmid, Ahmed K. (Edt)"; ]
+
+["Elmagarmid, Ahmed K. (Edt)"->"Elmargarmid, Ahmed K.; Elmagarmid, Ahmed K."; ]
+
+[A Mathematical Introduction to Logic (Softcover)->"A Mathematical Introduction to Logic, Second Edition"; ]
+
+["A Mathematical Introduction to Logic, Second Edition"->A Mathematical Introduction to Logic (Softcover); ]
+
+[CMM in Practice: Processes for Executing Software Projects at Infosys->CMM in Practice: Processes for Executing Software Projects at Infosys (The SEI Series in Software Engineering); ]
+
+["Jalote, Pankaj"->"Pankaj Jalote, P. Jalote"; ]
+
+[Photoshop and Dreamweaver Integration->PHOTOSHOP &amp; DREAMWEAVER INTEGR; ]
+
+[PHOTOSHOP &amp; DREAMWEAVER INTEGR->Photoshop and Dreamweaver Integration; ]
+
+[SMITH->"Smith, Colin"; ]
+
+["The Java Developers Almanac 1.4, Volume 2: Examples and Quick Reference (4th Edition)"->The Java Developers Almanac 1.4: Examples and Quick Reference; ]
+
+[The Java Developers Almanac 1.4: Examples and Quick Reference->"The Java Developers Almanac 1.4, Volume 2: Examples and Quick Reference (4th Edition)"; ]
+
+[The Guru's Guide to SQL Server Architecture and Internals->The Guru's Guide to SQL Server Architecture; ]
+
+[The Guru's Guide to SQL Server Architecture->The Guru's Guide to SQL Server Architecture and Internals; ]
+
+[Idioms of the Greek New Testament->Essential C++; ]
+
+[Essential C++->Idioms of the Greek New Testament; ]
+
+[Project Based Software Engineering->Project-Based Software Engineering: An Object-Oriented Approach; ]
+
+[Stiller->"Stiller, Evelyn; Leblanc, Cathie"; ]
+
+[Sprankle->"Sprankle, Maureen"; ]
+
+["Mpls Network Management: Mibs, Tools, and Techniques"->Mpls Network Management Mibs Tools &amp; Tec; ]
+
+["Discrete Mathematics with Combinatorics, Second Edition [Hardcover] by."->Discrete Mathematics With Combinatorics Second Edition; "Essential Java Class Reference for Programmers, The (3rd Edition)"->The Essential Java Class Reference For Programmers; ]
+
+["Anderson, James A."->0; 0->"Anderson, James A."; ]
+
+[Distributed Operating Systems &amp; Algorithms->Distributed Operating Systems and Algorithm Analysis; ]
+
+[Distributed Operating Systems and Algorithm Analysis->Distributed Operating Systems &amp; Algorithms; ]
+
+[Chow->"Chow, RandyJohnson, Theodore"; ]
+
+[Subdivision Methods for Geometric Design->Subdivision Methods for Geometric Design: A Constructive Approach (The Morgan Kaufmann Series in Computer Graphics); ]
+
+["Warren, Joe"->Joe Warren; Henrik Weimer; ]
+
+[Evolutionary Computation in Bioinformatics->Evolutionary Computation in Bioinformatics (The Morgan Kaufmann Series in Artificial Intelligence); ]
+
+[Gary B. Fogel->Gary B. Fogel~David W. Corne; ]
+
+[Trucluster Server Handbook->Trucluster Server Handbook (Hp Technologies); ]
+
+[Scott Fafrak->"Fafrak, Scott; Lola, Jim; O'Brien, Dennis; Yates, Gregory; Nichols, Brad"; ]
+
+[HackNotes(tm) Windows Security Portable Reference->Windows Security Portable Reference: Hack Notes; ]
+
+[Windows Security Portable Reference: Hack Notes->HackNotes(tm) Windows Security Portable Reference; ]
+
+["O'Dea, Michael"->"Viotto, Kate"; ]
+
+["Viotto, Kate"->"O'Dea, Michael"; ]
+
+[The Oracle(R) Designer/2000 Handbook->The Oracle Designer - 2000 Handbook; ]
+
+["Wendelken, David,"->Carrie Anderson David Wendelken; ]
+
+[LDAP Directories Explained: An Introduction and Analysis->LDAP DIRECTORIES EXPLAINED -OS; ]
+
+[LDAP DIRECTORIES EXPLAINED -OS->LDAP Directories Explained: An Introduction and Analysis; ]
+
+[Advanced Use Case Modeling: Software Systems->Advanced Use Case Modeling : Software Systems (Paperback); ]
+
+[Juniper Networks(R) Field Guide and Reference->Juniper Networks Field Guide and Reference; ]
+
+[Juniper Networks Field Guide and Reference->Juniper Networks(R) Field Guide and Reference; ]
+
+[Aviva Garrett->"Garrett, AvivaDrenan, GaryMorris, CrisJuniper&reg; Networks"; ]
+
+[Essential Windows Workflow Foundation->Essential Windows Workflow Foundation (MicrosoftNET Development Series); ]
+
+[Building an Object-Oriented Database System (The Morgan Kaufmann Series in Data Management Systems)->Building an Object-Oriented Database System - The Story of O2; ]
+
+[Building an Object-Oriented Database System - The Story of O2->Building an Object-Oriented Database System (The Morgan Kaufmann Series in Data Management Systems); ]
+
+[SOFTWARE ENGINEERING->Software Engineering (7th Edition) (International Computer Science Series); ]
+
+[Software Engineering (7th Edition) (International Computer Science Series)->SOFTWARE ENGINEERING; ]
+
+[SOMMERVILL->N/A; N/A->SOMMERVILL; ]
+
+["Security Education, Awareness, and Training : SEAT from Theory to Practice"->SECURITY EDUCATION AWARENESS &amp;; ]
+
+[SECURITY EDUCATION AWARENESS &amp;->"Security Education, Awareness, and Training : SEAT from Theory to Practice"; ]
+
+["Roper, Carl"->"Carl Roper, Dr. Lynn Fischer, Joseph A. Grau"; ]
+
+[Digital UNIX System Administrator's Guide (HP Technologies)->Digital Unix System Administratorandapos;s Guide; ]
+
+[Digital Unix System Administratorandapos;s Guide->Digital UNIX System Administrator's Guide (HP Technologies); ]
+
+[Programming Pearls (2nd Edition) (Paperback)->"Programming Pearls, 2/e"; ]
+
+["Programming Pearls, 2/e"->Programming Pearls (2nd Edition) (Paperback); ]
+
+[Bentley->"Bentley, Jon"; ]
+
+[The Struts Framework. Practical Guide for Java Programmers.->The Struts Framework: Practical Guide for Java Programmers; ]
+
+["Spielman, S."->Sue Spielman; ]
+
+[Readings in Information Visualization : Using Vision to Think (Morgan Kaufmann Series in Interactive Technologies)->Readings in Information Visualization: Using Vision to Think; ]
+
+[Readings in Information Visualization: Using Vision to Think->Readings in Information Visualization : Using Vision to Think (Morgan Kaufmann Series in Interactive Technologies); ]
+
+[LOGICAL EFFORT->Logical Effort: Designing Fast Cmos Circuits; ]
+
+["Ivan Edward Sutherland, Robert F. Sproull, David Harris"->"Sutherland, Ivan E."; ]
+
+["Sutherland, Ivan E."->"Ivan Edward Sutherland, Robert F. Sproull, David Harris"; ]
+
+[Microsoft SQL Server 2005 New Features->Microsoft(r) Yukon New Features; ]
+
+[Microsoft(r) Yukon New Features->Microsoft SQL Server 2005 New Features; ]
+
+[TCP/IP Illustrated : The Protocols v. 1 (APC) (Softcover)->"The Protocols (TCP/IP Illustrated, Volume 1)"; ]
+
+["The Protocols (TCP/IP Illustrated, Volume 1)"->TCP/IP Illustrated : The Protocols v. 1 (APC) (Softcover); ]
+
+[W.Richard Stevens->W. Richard Stevens; W. Richard Stevens->W.Richard Stevens; ]
+
+[MFC Internals: Inside the Microsoft(c) Foundation Class Architecture->Mfc Internals: Inside the Microsoft Foundation Class Architecture; ]
+
+[The Internet Security Guidebook: From Planning to Deployment->The Internet Security Guidebook: From Planning to Deployment (The Korper and Ellis E-Commerce Books Series); ]
+
+[XQUERY->XQuery: The XML Query Language; ]
+
+[XML Schema Companion->The Xml Schema Companion; ]
+
+[The Xml Schema Companion->XML Schema Companion; ]
+
+[Bradley->Neil Bradley; ]
+
+["Java, Java, Java: Object-Oriented Problem Solving, by Morelli, 3rd Edition"->"JAVA, JAVA, JAVA"; ]
+
+["JAVA, JAVA, JAVA"->"Java, Java, Java: Object-Oriented Problem Solving, by Morelli, 3rd Edition"; ]
+
+[MORELLI->"Morelli, Ralph/ Walde, Ralph"; ]
+
+[Moving Objects Databases->Moving Objects Databases (the Morgan Kaufmann Series In Data Management Systems) (the Morgan Kaufmann Series In Data Management Systems); ]
+
+[Oracle JDeveloper 10g for Forms &amp; PL/SQL Developers: A Guide to Web Development with Oracle ADF->ORACLE JDEVELOPER FOR FORMS &amp;; ]
+
+[ORACLE JDEVELOPER FOR FORMS &amp;->Oracle JDeveloper 10g for Forms &amp; PL/SQL Developers: A Guide to Web Development with Oracle ADF; ]
+
+[KOLETZKE/MILLS->"Koletzke, Peter"; ]
+
+["Koletzke, Peter"->KOLETZKE/MILLS; ]
+
+["Bulletproof Wireless Security: GSM, UMTS, 802.11 and Ad Hoc Security"->BULLETPROOF WIRELESS SECU -OS; ]
+
+[BULLETPROOF WIRELESS SECU -OS->"Bulletproof Wireless Security: GSM, UMTS, 802.11 and Ad Hoc Security"; ]
+
+[COORDINATING USER INTERFACES FOR CONSISTENCY->Coordinating User Interfaces for Consistency; ]
+
+[NIELSEN->"Nielsen, Jakob:"; ]
+
+[Object-Oriented Programming Using C++->"Object-Oriented Programming Using C++, by Pohl, 2nd Edition"; ]
+
+["Pohl, Ira"->"Ira Pohl , University of California, Santa Cruz"; ]
+
+[Java: An Introduction to Computing->"Java: An Introduction to Computing, by Adams"; ]
+
+[GUI Bloopers: Don'ts and Do's for Software Developers and Web Designers->GUI Bloopers: Donandapos;ts and Doandapos;s for Software Developers and Web Designers; ]
+
+[GUI Bloopers: Donandapos;ts and Doandapos;s for Software Developers and Web Designers->GUI Bloopers: Don'ts and Do's for Software Developers and Web Designers; ]
+
+["Bulka, Mayhew,"->Dov Bulka; ]
+
+[Dov Bulka->"Bulka, Mayhew,"; ]
+
+[Curves and Surfaces for CAGD: A Practical Guide->Curves and Surfaces for CAGD: A Practical Guide (The Morgan Kaufmann Series in Computer Graphics); ]
+
+["Farin, Gerald"->"Gerald E. Farin,"; ]
+
+[Computer Systems Design and Architecture->Computer Systems Design and Architecture (2nd Edition) (Softcover); ]
+
+[Heuring->"Vincent P. Heuring, Harry F. Jordan"; ]
+
+["Vincent P. Heuring, Harry F. Jordan"->Heuring; ]
+
